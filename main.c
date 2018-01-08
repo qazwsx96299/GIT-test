@@ -14,7 +14,7 @@ int main(int argc,char *argv[])     //please give the argu in cmd while processi
     m = atoi(argv[1]);  //get the user define
     n = atoi(argv[2]);
     k=n;
-
+    printf("GITHUB");
     printf("%d,%d\n",m,n);     //show the order
     int array1[m][n];
     int array2[m][n];
