@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#define hahaha
 void printf_2D_array(int m,int n,int a[m][n]);
 void clear_2D_array(int m,int n,int a[m][n]);
 void rand_2D_array(int m,int n,int a[m][n]);
